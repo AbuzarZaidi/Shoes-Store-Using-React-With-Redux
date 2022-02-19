@@ -212,15 +212,16 @@ button {
 }
 
 .header_section{
-	width: 100%;
-	float: left;
-	background-image: url(../images//banner.png);
-	height: auto;
-	padding: 20px 0px;
-	background-size: 100%;
-	background-repeat: no-repeat;
+background: #0C0116;
+padding: 10px 0px;
+    
 }
-
+.banner{
+    background-image: url(../images/banner.png);
+    float: left;
+    width: 100%;
+height: auto;
+}
 .padding_0{ width: 100%; float: left; }
 
 .mens_taital{ width: 100%; float: left; color: #908d92; font-size: 14pt; }
